@@ -4,4 +4,4 @@ Application works by reading an excel sheet and storing it in databse. It can ge
 
 The report can then be saved as an excel file which can be distributed or printed.
 
-Made for lower level emplyess who need not the product information just what report to generate.
+Made for lower level emplyess who do not need the product information but only what report to generate.
